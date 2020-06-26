@@ -1,1 +1,10 @@
 /target/
+
+/.classpath
+/.sppringBeans
+/.project
+/.settings/
+/.gradle/
+/buid/
+/.class
+/.jar
