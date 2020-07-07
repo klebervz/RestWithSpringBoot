@@ -1,4 +1,4 @@
-package br.com.kvaz.model;
+package br.com.kvaz.data.model;
 
 import java.io.Serializable;
 
