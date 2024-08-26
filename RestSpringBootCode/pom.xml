@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>  
   		<java.version>11</java.version>
-  		<spring.fox.version>2.9.2</spring.fox.version>
+  		<spring.fox.version>2.10.0</spring.fox.version>
   		<dozer.version>6.4.1</dozer.version>
   		<jwt.version>0.9.1</jwt.version>
   </properties>
